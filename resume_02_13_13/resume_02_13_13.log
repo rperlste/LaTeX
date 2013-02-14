@@ -1,7 +1,9 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (MiKTeX 2.9) (preloaded format=latex 2013.2.14)  14 FEB 2013 12:24
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (MiKTeX 2.9) (preloaded format=latex 2013.2.14)  14 FEB 2013 12:56
 entering extended mode
 **resume_02_13_13.tex
-("C:\Users\Stank Sauce\Documents\Dropbox\resume_02_13_13.tex"
+
+("C:\Users\Stank Sauce\Documents\Dropbox\LaTeX\resume_02_13_13\resume_02_13_13.
+tex"
 LaTeX2e <2011/06/27>
 Babel <v3.8m> and hyphenation patterns for english, afrikaans, ancientgreek, ar
 abic, armenian, assamese, basque, bengali, bokmal, bulgarian, catalan, coptic, 
@@ -47,7 +49,9 @@ No auxiliary output files.
 \c@numberofcolumns=\count87
 ) ("C:\Users\Stank Sauce\AppData\Roaming\MiKTeX\2.9\tex\latex\tabto\tabto.sty"
 \CurrentLineWidth=\dimen106
-) ("C:\Users\Stank Sauce\Documents\Dropbox\resume_02_13_13.aux")
+)
+("C:\Users\Stank Sauce\Documents\Dropbox\LaTeX\resume_02_13_13\resume_02_13_13.
+aux")
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 22.
 LaTeX Font Info:    ... okay on input line 22.
 LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 22.
@@ -82,20 +86,25 @@ Underfull \hbox (badness 10000) in paragraph at lines 61--63
  []
 
 Missing character: There is no – in font cmr10!
+
+Overfull \hbox (4.36357pt too wide) in paragraph at lines 70--71
+[]\OT1/cmr/m/n/10 Developed trade re-port-ing tech-nolo-gies for the Lon-don St
+ock Ex-change's Turquiose
+ []
+
 Missing character: There is no ’ in font cmr10!
 Missing character: There is no “ in font cmr10!
 Missing character: There is no ” in font cmr10!
-Missing character: There is no ’ in font cmr10!
 [1
 
 ] ) 
 Here is how much of TeX's memory you used:
  339 strings out of 493922
- 4286 string characters out of 3144881
+ 4396 string characters out of 3144881
  55263 words of memory out of 3000000
  3705 multiletter control sequences out of 15000+200000
  5213 words of font info for 19 fonts, out of 3000000 for 9000
  841 hyphenation exceptions out of 8191
- 29i,4n,21p,291b,116s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 29i,4n,21p,446b,116s stack positions out of 5000i,500n,10000p,200000b,50000s
 
-Output written on resume_02_13_13.dvi (1 page, 3884 bytes).
+Output written on resume_02_13_13.dvi (1 page, 3984 bytes).
